@@ -1,0 +1,3 @@
+#!/bin/bash
+wget http://www.astronexus.com/downloads/catalogs/hygfull.csv.gz
+wget http://www.astronexus.com/downloads/catalogs/hygdata_v3.csv.gz
